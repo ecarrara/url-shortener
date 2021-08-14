@@ -1,0 +1,9 @@
+{
+  "node_id": 1,
+  "storage": {
+    "mongo": {
+      "uri": "mongodb://admin:admin@localhost",
+      "database": "url_shortener"
+    }
+  }
+}
